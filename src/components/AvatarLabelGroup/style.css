@@ -1,0 +1,151 @@
+.avatar-label-group {
+  align-items: center;
+  display: inline-flex;
+  position: relative;
+}
+
+.avatar-label-group .class-3 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-33@2x.png) !important;
+  margin-bottom: -1px !important;
+  margin-left: -4px !important;
+  margin-top: -1px !important;
+  position: relative !important;
+}
+
+.avatar-label-group .class-4 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-29@2x.png) !important;
+  margin-bottom: -1px !important;
+  margin-left: -4px !important;
+  margin-top: -1px !important;
+  position: relative !important;
+}
+
+.avatar-label-group .class-5 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-25@2x.png) !important;
+  margin-bottom: -1px !important;
+  margin-left: -4px !important;
+  margin-top: -1px !important;
+  position: relative !important;
+}
+
+.avatar-label-group .class-6 {
+  position: relative !important;
+}
+
+.avatar-label-group .class-7 {
+  margin-bottom: -4px !important;
+  margin-left: -4px !important;
+  margin-top: -4px !important;
+  position: relative !important;
+}
+
+.avatar-label-group .text-and-supporting {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.avatar-label-group .text-2 {
+  color: var(--gray-700);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.avatar-label-group .supporting-text {
+  color: var(--gray-500);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.avatar-label-group.size-2-md {
+  gap: 12px;
+}
+
+.avatar-label-group.size-2-lg {
+  gap: 12px;
+}
+
+.avatar-label-group.size-2-xl {
+  gap: 16px;
+}
+
+.avatar-label-group.size-2-sm {
+  gap: 10px;
+}
+
+.avatar-label-group.size-2-md .text-2 {
+  font-family: var(--text-sm-semibold-font-family);
+  font-size: var(--text-sm-semibold-font-size);
+  font-style: var(--text-sm-semibold-font-style);
+  font-weight: var(--text-sm-semibold-font-weight);
+  letter-spacing: var(--text-sm-semibold-letter-spacing);
+  line-height: var(--text-sm-semibold-line-height);
+}
+
+.avatar-label-group.size-2-lg .text-2 {
+  font-family: var(--text-md-semibold-font-family);
+  font-size: var(--text-md-semibold-font-size);
+  font-style: var(--text-md-semibold-font-style);
+  font-weight: var(--text-md-semibold-font-weight);
+  letter-spacing: var(--text-md-semibold-letter-spacing);
+  line-height: var(--text-md-semibold-line-height);
+}
+
+.avatar-label-group.size-2-xl .text-2 {
+  font-family: var(--text-lg-semibold-font-family);
+  font-size: var(--text-lg-semibold-font-size);
+  font-style: var(--text-lg-semibold-font-style);
+  font-weight: var(--text-lg-semibold-font-weight);
+  letter-spacing: var(--text-lg-semibold-letter-spacing);
+  line-height: var(--text-lg-semibold-line-height);
+}
+
+.avatar-label-group.size-2-sm .text-2 {
+  font-family: var(--text-sm-semibold-font-family);
+  font-size: var(--text-sm-semibold-font-size);
+  font-style: var(--text-sm-semibold-font-style);
+  font-weight: var(--text-sm-semibold-font-weight);
+  letter-spacing: var(--text-sm-semibold-letter-spacing);
+  line-height: var(--text-sm-semibold-line-height);
+}
+
+.avatar-label-group.size-2-md .supporting-text {
+  font-family: var(--text-sm-regular-font-family);
+  font-size: var(--text-sm-regular-font-size);
+  font-style: var(--text-sm-regular-font-style);
+  font-weight: var(--text-sm-regular-font-weight);
+  letter-spacing: var(--text-sm-regular-letter-spacing);
+  line-height: var(--text-sm-regular-line-height);
+}
+
+.avatar-label-group.size-2-lg .supporting-text {
+  font-family: var(--text-md-regular-font-family);
+  font-size: var(--text-md-regular-font-size);
+  font-style: var(--text-md-regular-font-style);
+  font-weight: var(--text-md-regular-font-weight);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+}
+
+.avatar-label-group.size-2-xl .supporting-text {
+  font-family: var(--text-md-regular-font-family);
+  font-size: var(--text-md-regular-font-size);
+  font-style: var(--text-md-regular-font-style);
+  font-weight: var(--text-md-regular-font-weight);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+}
+
+.avatar-label-group.size-2-sm .supporting-text {
+  font-family: var(--text-xs-regular-font-family);
+  font-size: var(--text-xs-regular-font-size);
+  font-style: var(--text-xs-regular-font-style);
+  font-weight: var(--text-xs-regular-font-weight);
+  letter-spacing: var(--text-xs-regular-letter-spacing);
+  line-height: var(--text-xs-regular-line-height);
+}

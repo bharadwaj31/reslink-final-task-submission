@@ -1,0 +1,1308 @@
+.avatar {
+  border-radius: 200px;
+}
+
+.avatar .text {
+  color: var(--primary-600);
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.avatar .user-36 {
+  height: 32px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.avatar .avatar-company-icon {
+  border-color: var(--white);
+  position: absolute;
+}
+
+.avatar .user-27 {
+  height: 28px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 28px !important;
+}
+
+.avatar .div {
+  border: 1.5px solid;
+  border-color: var(--white);
+  position: absolute;
+}
+
+.avatar .user-18 {
+  height: 24px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 24px !important;
+}
+
+.avatar .avatar-company-icon-2 {
+  border: 1.5px solid;
+  border-color: var(--white);
+  position: absolute;
+}
+
+.avatar .user-9 {
+  height: 20px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 20px !important;
+}
+
+.avatar .avatar-company-icon-3 {
+  border: 1.5px solid;
+  border-color: var(--white);
+  position: absolute;
+}
+
+.avatar .user-instance {
+  height: 16px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 16px !important;
+}
+
+.avatar .avatar-company-icon-4 {
+  border: 1.5px solid;
+  border-color: var(--white);
+  position: absolute;
+}
+
+.avatar .text-wrapper {
+  color: var(--primary-600);
+  font-family: var(--display-xs-medium-font-family);
+  font-size: var(--display-xs-medium-font-size);
+  font-style: var(--display-xs-medium-font-style);
+  font-weight: var(--display-xs-medium-font-weight);
+  left: 0;
+  letter-spacing: var(--display-xs-medium-letter-spacing);
+  line-height: var(--display-xs-medium-line-height);
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 64px;
+}
+
+.avatar .avatar-online {
+  background-color: var(--success-500);
+  border: 1.5px solid;
+  border-color: var(--white);
+  border-radius: 8px;
+  height: 19px;
+  left: 46px;
+  position: absolute;
+  top: 46px;
+  width: 19px;
+}
+
+.avatar .class {
+  height: 32px !important;
+  left: 16px !important;
+  position: absolute !important;
+  top: 16px !important;
+  width: 32px !important;
+}
+
+.avatar .class-2 {
+  height: 32px !important;
+  left: 12px !important;
+  position: absolute !important;
+  top: 12px !important;
+  width: 32px !important;
+}
+
+.avatar .user-27-instance {
+  height: 28px !important;
+  left: 10px !important;
+  position: absolute !important;
+  top: 10px !important;
+  width: 28px !important;
+}
+
+.avatar .user-18-instance {
+  height: 24px !important;
+  left: 8px !important;
+  position: absolute !important;
+  top: 8px !important;
+  width: 24px !important;
+}
+
+.avatar .user-9-instance {
+  height: 20px !important;
+  left: 6px !important;
+  position: absolute !important;
+  top: 6px !important;
+  width: 20px !important;
+}
+
+.avatar .instance-node {
+  height: 16px !important;
+  left: 4px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 16px !important;
+}
+
+.avatar.text-true {
+  background-color: var(--primary-50);
+}
+
+.avatar.placeholder-true {
+  background-color: var(--primary-50);
+}
+
+.avatar.focused {
+  border: 4px solid;
+  border-color: var(--primary-100);
+}
+
+.avatar.sm.default {
+  height: 32px;
+  width: 32px;
+}
+
+.avatar.xs.focused {
+  height: 32px;
+  width: 32px;
+}
+
+.avatar.focused.md {
+  height: 48px;
+  width: 48px;
+}
+
+.avatar.xs.hover {
+  height: 24px;
+  width: 24px;
+}
+
+.avatar.hover.two-xl {
+  height: 64px;
+  width: 64px;
+}
+
+.avatar.xs.default {
+  height: 24px;
+  width: 24px;
+}
+
+.avatar.hover.xl {
+  height: 56px;
+  width: 56px;
+}
+
+.avatar.default.two-xl {
+  height: 64px;
+  width: 64px;
+}
+
+.avatar.lg.default {
+  height: 48px;
+  width: 48px;
+}
+
+.avatar.false.text-true {
+  position: relative;
+}
+
+.avatar.hover.sm {
+  height: 32px;
+  width: 32px;
+}
+
+.avatar.default.xl {
+  height: 56px;
+  width: 56px;
+}
+
+.avatar.lg.focused {
+  height: 56px;
+  width: 56px;
+}
+
+.avatar.lg.hover {
+  height: 48px;
+  width: 48px;
+}
+
+.avatar.default.md {
+  height: 40px;
+  width: 40px;
+}
+
+.avatar.placeholder-false.text-false {
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.avatar.focused.xl {
+  height: 64px;
+  width: 64px;
+}
+
+.avatar.false.placeholder-true {
+  position: relative;
+}
+
+.avatar.hover.md {
+  height: 40px;
+  width: 40px;
+}
+
+.avatar.focused.sm {
+  height: 40px;
+  width: 40px;
+}
+
+.avatar.focused.two-xl {
+  height: 72px;
+  width: 72px;
+}
+
+.avatar.online-indicator.two-xl.text-true {
+  position: relative;
+}
+
+.avatar.placeholder-false.text-false.online-indicator.two-xl {
+  box-shadow: var(--focus-ring-4px-primary-100);
+}
+
+.avatar.placeholder-false.text-false.online-indicator.xl {
+  box-shadow: var(--focus-ring-4px-primary-100);
+}
+
+.avatar.text-false.default.placeholder-false.lg.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-19@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.lg.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-19@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.lg.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-23@2x.png);
+}
+
+.avatar.text-false.xs.default.placeholder-false.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-company--sta-2@2x.png);
+}
+
+.avatar.text-false.xs.focused.placeholder-false.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-false--state@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.sm.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-13@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.lg.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-31@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.online-indicator.xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-22@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.lg.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-15@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.false.two-xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-false--stat-2@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.sm.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-21@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.false.two-xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-false--stat-2@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.md.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-36@2x.png);
+}
+
+.avatar.text-false.focused.sm.placeholder-false.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-sm--placeholder-false--text-false--status-icon-false--state@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.lg.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-23@2x.png);
+}
+
+.avatar.text-false.focused.sm.placeholder-false.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-sm--placeholder-false--text-false--status-icon-company--sta@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.xl.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-18@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.online-indicator.two-xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-online-indi-2@2x.png);
+}
+
+.avatar.text-false.hover.sm.placeholder-false.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-13@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.md.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-20@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.md.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-28@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.online-indicator.xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-22@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.two-xl.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-company--st-2@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.md.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-24@2x.png);
+}
+
+.avatar.text-false.xs.hover.placeholder-false.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-online-indic-2@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.two-xl.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-company--st@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.online-indicator.two-xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-online-indi-2@2x.png);
+}
+
+.avatar.text-false.xs.hover.placeholder-false.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-company--sta-2@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.false.two-xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-false--stat@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.md.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-24@2x.png);
+}
+
+.avatar.text-false.focused.sm.placeholder-false.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-sm--placeholder-false--text-false--status-icon-online-indic@2x.png);
+}
+
+.avatar.text-false.xs.default.placeholder-false.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-online-indic-2@2x.png);
+}
+
+.avatar.text-false.xs.focused.placeholder-false.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-online-indic@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.lg.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-27@2x.png);
+}
+
+.avatar.text-false.hover.sm.placeholder-false.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-21@2x.png);
+}
+
+.avatar.text-false.xs.default.placeholder-false.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-false--state-2@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.online-indicator.two-xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-online-indi@2x.png);
+}
+
+.avatar.text-false.xs.focused.placeholder-false.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-company--sta@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.md.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-16@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.md.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-32@2x.png);
+}
+
+.avatar.text-false.xs.hover.placeholder-false.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-xs--placeholder-false--text-false--status-icon-false--state-2@2x.png);
+}
+
+.avatar.text-false.hover.sm.placeholder-false.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-17@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.md.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-16@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.lg.online-indicator {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-35@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.lg.false {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-15@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.two-xl.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/size-2xl--placeholder-false--text-false--status-icon-company--st-2@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.online-indicator.xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-34@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.sm.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-17@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.false.xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-14@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.xl.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-30@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.false.xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-14@2x.png);
+}
+
+.avatar.text-false.default.placeholder-false.xl.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-18@2x.png);
+}
+
+.avatar.text-false.focused.placeholder-false.false.xl {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-26@2x.png);
+}
+
+.avatar.text-false.hover.placeholder-false.md.company {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/avatar-20@2x.png);
+}
+
+.avatar.company .text-9 {
+  position: relative;
+}
+
+.avatar.false .text-9 {
+  color: var(--primary-600);
+  left: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.avatar.online-indicator .text-9 {
+  position: relative;
+}
+
+.avatar.lg.text-true .text-9 {
+  top: 10px;
+}
+
+.avatar.xs.false .text-9 {
+  font-family: var(--text-xs-medium-font-family);
+  font-size: var(--text-xs-medium-font-size);
+  font-style: var(--text-xs-medium-font-style);
+  font-weight: var(--text-xs-medium-font-weight);
+  letter-spacing: var(--text-xs-medium-letter-spacing);
+  line-height: var(--text-xs-medium-line-height);
+  width: 24px;
+}
+
+.avatar.xs.placeholder-true .text-9 {
+  top: 4px;
+}
+
+.avatar.sm.text-true .text-9 {
+  top: 6px;
+}
+
+.avatar.md.placeholder-true .text-9 {
+  top: 8px;
+}
+
+.avatar.false.two-xl .text-9 {
+  font-family: var(--display-xs-medium-font-family);
+  font-size: var(--display-xs-medium-font-size);
+  font-style: var(--display-xs-medium-font-style);
+  font-weight: var(--display-xs-medium-font-weight);
+  letter-spacing: var(--display-xs-medium-letter-spacing);
+  line-height: var(--display-xs-medium-line-height);
+  top: 14px;
+  width: 64px;
+}
+
+.avatar.md.false .text-9 {
+  font-family: var(--text-md-medium-font-family);
+  font-size: var(--text-md-medium-font-size);
+  font-style: var(--text-md-medium-font-style);
+  font-weight: var(--text-md-medium-font-weight);
+  letter-spacing: var(--text-md-medium-letter-spacing);
+  line-height: var(--text-md-medium-line-height);
+  width: 40px;
+}
+
+.avatar.xs.text-true .text-9 {
+  top: 4px;
+}
+
+.avatar.sm.false .text-9 {
+  font-family: var(--text-sm-medium-font-family);
+  font-size: var(--text-sm-medium-font-size);
+  font-style: var(--text-sm-medium-font-style);
+  font-weight: var(--text-sm-medium-font-weight);
+  letter-spacing: var(--text-sm-medium-letter-spacing);
+  line-height: var(--text-sm-medium-line-height);
+  width: 32px;
+}
+
+.avatar.lg.placeholder-true .text-9 {
+  top: 10px;
+}
+
+.avatar.false.xl .text-9 {
+  font-family: var(--text-xl-medium-font-family);
+  font-size: var(--text-xl-medium-font-size);
+  font-style: var(--text-xl-medium-font-style);
+  font-weight: var(--text-xl-medium-font-weight);
+  letter-spacing: var(--text-xl-medium-letter-spacing);
+  line-height: var(--text-xl-medium-line-height);
+  width: 56px;
+}
+
+.avatar.placeholder-false.text-false .text-9 {
+  border-color: var(--white);
+}
+
+.avatar.xl.text-true .text-9 {
+  top: 13px;
+}
+
+.avatar.md.text-true .text-9 {
+  top: 8px;
+}
+
+.avatar.lg.false .text-9 {
+  font-family: var(--text-lg-medium-font-family);
+  font-size: var(--text-lg-medium-font-size);
+  font-style: var(--text-lg-medium-font-style);
+  font-weight: var(--text-lg-medium-font-weight);
+  letter-spacing: var(--text-lg-medium-letter-spacing);
+  line-height: var(--text-lg-medium-line-height);
+  width: 48px;
+}
+
+.avatar.sm.placeholder-true .text-9 {
+  top: 6px;
+}
+
+.avatar.md.online-indicator.text-true .text-9 {
+  height: 34px;
+  width: 42px;
+}
+
+.avatar.xs.online-indicator.text-true .text-9 {
+  height: 22px;
+  width: 26px;
+}
+
+.avatar.sm.online-indicator.placeholder-true .text-9 {
+  height: 28px;
+  left: 6px;
+}
+
+.avatar.placeholder-false.text-false.xl .text-9 {
+  border: 1.5px solid;
+}
+
+.avatar.md.placeholder-false.text-false .text-9 {
+  border: 1.5px solid;
+}
+
+.avatar.online-indicator.placeholder-true.xl .text-9 {
+  height: 46px;
+  left: 12px;
+}
+
+.avatar.two-xl.placeholder-true.company .text-9 {
+  left: 16px;
+}
+
+.avatar.placeholder-false.text-false.online-indicator .text-9 {
+  background-color: var(--success-500);
+  border: 1.5px solid;
+}
+
+.avatar.placeholder-false.text-false.company .text-9 {
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.avatar.sm.text-true.company .text-9 {
+  height: 30px;
+  width: 36px;
+}
+
+.avatar.online-indicator.placeholder-true.two-xl .text-9 {
+  height: 50px;
+  left: 16px;
+  top: 16px;
+  width: 50px;
+}
+
+.avatar.xl.text-true.company .text-9 {
+  height: 46px;
+  width: 60px;
+}
+
+.avatar.xs.online-indicator.placeholder-true .text-9 {
+  height: 22px;
+  left: 4px;
+}
+
+.avatar.placeholder-false.online-indicator.two-xl .text-9 {
+  border: 1.5px solid;
+  border-radius: 8px;
+  height: 19px;
+  left: 48px;
+  top: 48px;
+  width: 19px;
+}
+
+.avatar.xs.placeholder-false.text-false .text-9 {
+  border: 1.5px solid;
+}
+
+.avatar.lg.online-indicator.text-true .text-9 {
+  height: 40px;
+  width: 50px;
+}
+
+.avatar.xl.text-false.placeholder-true .text-9 {
+  top: 12px;
+}
+
+.avatar.md.placeholder-true.company .text-9 {
+  height: 36px;
+  left: 8px;
+}
+
+.avatar.sm.placeholder-false.text-false .text-9 {
+  border: 1.5px solid;
+}
+
+.avatar.xl.online-indicator.text-true .text-9 {
+  width: 58px;
+}
+
+.avatar.md.online-indicator.placeholder-true .text-9 {
+  height: 34px;
+  left: 8px;
+}
+
+.avatar.lg.text-true.company .text-9 {
+  height: 42px;
+  width: 52px;
+}
+
+.avatar.sm.placeholder-true.company .text-9 {
+  height: 30px;
+  left: 6px;
+}
+
+.avatar.xl.placeholder-true.company .text-9 {
+  left: 12px;
+}
+
+.avatar.md.text-true.company .text-9 {
+  height: 36px;
+  width: 44px;
+}
+
+.avatar.xs.text-true.company .text-9 {
+  height: 24px;
+}
+
+.avatar.two-xl.text-true.company .text-9 {
+  height: 54px;
+  top: 14px;
+  width: 68px;
+}
+
+.avatar.lg.placeholder-true.company .text-9 {
+  height: 42px;
+  left: 10px;
+}
+
+.avatar.sm.online-indicator.text-true .text-9 {
+  height: 28px;
+  width: 34px;
+}
+
+.avatar.lg.online-indicator.placeholder-true .text-9 {
+  height: 40px;
+  left: 10px;
+}
+
+.avatar.lg.placeholder-false.text-false .text-9 {
+  border: 1.5px solid;
+}
+
+.avatar.xs.placeholder-true.company .text-9 {
+  height: 24px;
+  left: 4px;
+}
+
+.avatar.sm.text-false.placeholder-true.company .text-9 {
+  width: 30px;
+}
+
+.avatar.company.placeholder-false.text-false.xl .text-9 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-63@2x.png);
+  border-radius: 12px;
+  height: 21px;
+  left: 38px;
+  top: 38px;
+  width: 21px;
+}
+
+.avatar.xs.placeholder-false.text-false.online-indicator .text-9 {
+  border-radius: 3px;
+  height: 9px;
+  left: 16px;
+  top: 16px;
+  width: 9px;
+}
+
+.avatar.two-xl.text-false.placeholder-true.company .text-9 {
+  height: 52px;
+  top: 16px;
+  width: 52px;
+}
+
+.avatar.lg.text-false.placeholder-true.company .text-9 {
+  width: 42px;
+}
+
+.avatar.lg.placeholder-false.text-false.online-indicator .text-9 {
+  border-radius: 6px;
+  height: 15px;
+  left: 34px;
+  top: 34px;
+  width: 15px;
+}
+
+.avatar.md.online-indicator.text-false.placeholder-true .text-9 {
+  width: 34px;
+}
+
+.avatar.xl.text-false.placeholder-true.company .text-9 {
+  height: 48px;
+  width: 48px;
+}
+
+.avatar.text-true.placeholder-false.online-indicator.xl .text-9 {
+  height: 44px;
+}
+
+.avatar.lg.online-indicator.text-false.placeholder-true .text-9 {
+  width: 40px;
+}
+
+.avatar.xs.online-indicator.text-false.placeholder-true .text-9 {
+  width: 22px;
+}
+
+.avatar.xs.focused.placeholder-true.company .text-9 {
+  width: 24px;
+}
+
+.avatar.sm.online-indicator.text-false.placeholder-true .text-9 {
+  width: 28px;
+}
+
+.avatar.sm.placeholder-false.text-false.company .text-9 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-62@2x.png);
+  border-radius: 12px;
+  height: 15px;
+  left: 20px;
+  top: 20px;
+  width: 15px;
+}
+
+.avatar.sm.placeholder-false.text-false.online-indicator .text-9 {
+  border-radius: 4px;
+  height: 11px;
+  left: 22px;
+  top: 22px;
+  width: 11px;
+}
+
+.avatar.md.placeholder-false.text-false.online-indicator .text-9 {
+  border-radius: 5px;
+  height: 13px;
+  left: 28px;
+  top: 28px;
+  width: 13px;
+}
+
+.avatar.md.text-false.placeholder-true.company .text-9 {
+  width: 36px;
+}
+
+.avatar.md.placeholder-false.text-false.company .text-9 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-65@2x.png);
+  border-radius: 12px;
+  height: 17px;
+  left: 26px;
+  top: 26px;
+  width: 17px;
+}
+
+.avatar.xs.placeholder-false.text-false.company .text-9 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-38@2x.png);
+  border-radius: 12px;
+  height: 13px;
+  left: 14px;
+  top: 14px;
+  width: 13px;
+}
+
+.avatar.xs.default.text-true.company .text-9 {
+  width: 28px;
+}
+
+.avatar.placeholder-false.text-false.two-xl.company .text-9 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-52@2x.png);
+  border: 1.67px solid;
+  border-radius: 13.33px;
+  height: 23px;
+  left: 44px;
+  top: 44px;
+  width: 23px;
+}
+
+.avatar.placeholder-false.text-false.online-indicator.xl .text-9 {
+  border-radius: 7px;
+  height: 17px;
+  left: 40px;
+  top: 40px;
+  width: 17px;
+}
+
+.avatar.online-indicator.text-false.placeholder-true.xl .text-9 {
+  width: 46px;
+}
+
+.avatar.lg.placeholder-false.text-false.company .text-9 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-64@2x.png);
+  border-radius: 12px;
+  height: 19px;
+  left: 32px;
+  top: 32px;
+  width: 19px;
+}
+
+.avatar.xs.placeholder-false.text-true.company .text-9 {
+  width: 28px;
+}
+
+.avatar.xs.hover.text-true.company .text-9 {
+  width: 28px;
+}
+
+.avatar.md .text {
+  font-family: var(--text-md-medium-font-family);
+  font-size: var(--text-md-medium-font-size);
+  font-style: var(--text-md-medium-font-style);
+  font-weight: var(--text-md-medium-font-weight);
+  letter-spacing: var(--text-md-medium-letter-spacing);
+  line-height: var(--text-md-medium-line-height);
+  width: 40px;
+}
+
+.avatar.sm .text {
+  font-family: var(--text-sm-medium-font-family);
+  font-size: var(--text-sm-medium-font-size);
+  font-style: var(--text-sm-medium-font-style);
+  font-weight: var(--text-sm-medium-font-weight);
+  letter-spacing: var(--text-sm-medium-letter-spacing);
+  line-height: var(--text-sm-medium-line-height);
+  width: 32px;
+}
+
+.avatar.xl .text {
+  font-family: var(--text-xl-medium-font-family);
+  font-size: var(--text-xl-medium-font-size);
+  font-style: var(--text-xl-medium-font-style);
+  font-weight: var(--text-xl-medium-font-weight);
+  letter-spacing: var(--text-xl-medium-letter-spacing);
+  line-height: var(--text-xl-medium-line-height);
+  width: 56px;
+}
+
+.avatar.lg .text {
+  font-family: var(--text-lg-medium-font-family);
+  font-size: var(--text-lg-medium-font-size);
+  font-style: var(--text-lg-medium-font-style);
+  font-weight: var(--text-lg-medium-font-weight);
+  letter-spacing: var(--text-lg-medium-letter-spacing);
+  line-height: var(--text-lg-medium-line-height);
+  width: 48px;
+}
+
+.avatar.xs .text {
+  font-family: var(--text-xs-medium-font-family);
+  font-size: var(--text-xs-medium-font-size);
+  font-style: var(--text-xs-medium-font-style);
+  font-weight: var(--text-xs-medium-font-weight);
+  letter-spacing: var(--text-xs-medium-letter-spacing);
+  line-height: var(--text-xs-medium-line-height);
+  width: 24px;
+}
+
+.avatar.two-xl .text {
+  font-family: var(--display-xs-medium-font-family);
+  font-size: var(--display-xs-medium-font-size);
+  font-style: var(--display-xs-medium-font-style);
+  font-weight: var(--display-xs-medium-font-weight);
+  letter-spacing: var(--display-xs-medium-letter-spacing);
+  line-height: var(--display-xs-medium-line-height);
+  width: 64px;
+}
+
+.avatar.md .avatar-company-icon {
+  border: 1.5px solid;
+}
+
+.avatar.sm .avatar-company-icon {
+  border: 1.5px solid;
+}
+
+.avatar.company .avatar-company-icon {
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.avatar.xl .avatar-company-icon {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-63@2x.png);
+  border: 1.5px solid;
+}
+
+.avatar.false .avatar-company-icon {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-63@2x.png);
+  border: 1.5px solid;
+  border-radius: 12px;
+  height: 17px;
+  width: 17px;
+}
+
+.avatar.lg .avatar-company-icon {
+  border: 1.5px solid;
+}
+
+.avatar.online-indicator .avatar-company-icon {
+  background-color: var(--success-500);
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-63@2x.png);
+  border: 1.5px solid;
+}
+
+.avatar.xs .avatar-company-icon {
+  border: 1.5px solid;
+}
+
+.avatar.two-xl.text-true .avatar-company-icon {
+  top: 30px;
+}
+
+.avatar.placeholder-false.two-xl .avatar-company-icon {
+  left: 44px;
+}
+
+.avatar.xl.online-indicator .avatar-company-icon {
+  border-radius: 7px;
+  height: 17px;
+  top: 28px;
+  width: 17px;
+}
+
+.avatar.xs.company .avatar-company-icon {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-38@2x.png);
+  border-radius: 12px;
+  height: 13px;
+  left: 14px;
+  top: 10px;
+  width: 13px;
+}
+
+.avatar.xs.false .avatar-company-icon {
+  left: 28px;
+  top: 28px;
+}
+
+.avatar.sm.company .avatar-company-icon {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-62@2x.png);
+  border-radius: 12px;
+  height: 15px;
+  left: 20px;
+  top: 14px;
+  width: 15px;
+}
+
+.avatar.md.online-indicator .avatar-company-icon {
+  border-radius: 5px;
+  height: 13px;
+  left: 28px;
+  top: 20px;
+  width: 13px;
+}
+
+.avatar.false.placeholder-true .avatar-company-icon {
+  left: 28px;
+}
+
+.avatar.xs.online-indicator .avatar-company-icon {
+  border-radius: 3px;
+  height: 9px;
+  left: 16px;
+  top: 12px;
+  width: 9px;
+}
+
+.avatar.sm.false .avatar-company-icon {
+  left: 28px;
+  top: 28px;
+}
+
+.avatar.online-indicator.two-xl .avatar-company-icon {
+  border-radius: 8px;
+  height: 19px;
+  top: 30px;
+  width: 19px;
+}
+
+.avatar.lg.online-indicator .avatar-company-icon {
+  border-radius: 6px;
+  height: 15px;
+  left: 34px;
+  top: 24px;
+  width: 15px;
+}
+
+.avatar.md.company .avatar-company-icon {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-65@2x.png);
+  border-radius: 12px;
+  height: 17px;
+  left: 26px;
+  top: 18px;
+  width: 17px;
+}
+
+.avatar.false.xl .avatar-company-icon {
+  left: 28px;
+  top: 28px;
+}
+
+.avatar.lg.company .avatar-company-icon {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-64@2x.png);
+  border-radius: 12px;
+  height: 19px;
+  left: 32px;
+  top: 22px;
+  width: 19px;
+}
+
+.avatar.lg.false .avatar-company-icon {
+  left: 28px;
+  top: 28px;
+}
+
+.avatar.sm.online-indicator .avatar-company-icon {
+  border-radius: 4px;
+  height: 11px;
+  left: 22px;
+  top: 16px;
+  width: 11px;
+}
+
+.avatar.xl.company .avatar-company-icon {
+  border-radius: 12px;
+  height: 21px;
+  top: 26px;
+  width: 21px;
+}
+
+.avatar.false.text-false .avatar-company-icon {
+  top: 28px;
+}
+
+.avatar.md.false .avatar-company-icon {
+  left: 28px;
+  top: 28px;
+}
+
+.avatar.two-xl.company .avatar-company-icon {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-52@2x.png);
+  border: 1.67px solid;
+  border-radius: 13.33px;
+  height: 23px;
+  width: 23px;
+}
+
+.avatar.xl.text-false.company .avatar-company-icon {
+  left: 26px;
+}
+
+.avatar.two-xl.placeholder-true.company .avatar-company-icon {
+  left: 28px;
+}
+
+.avatar.online-indicator.placeholder-true.two-xl .avatar-company-icon {
+  left: 30px;
+}
+
+.avatar.xl.text-true.company .avatar-company-icon {
+  left: 38px;
+}
+
+.avatar.text-false.two-xl.company .avatar-company-icon {
+  top: 28px;
+}
+
+.avatar.xl.online-indicator.text-true .avatar-company-icon {
+  left: 40px;
+}
+
+.avatar.xl.text-false.online-indicator .avatar-company-icon {
+  left: 28px;
+}
+
+.avatar.company .div {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-64@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 19px;
+  left: 22px;
+  top: 22px;
+  width: 19px;
+}
+
+.avatar.online-indicator .div {
+  background-color: var(--success-500);
+  border-radius: 6px;
+  height: 15px;
+  left: 24px;
+  top: 24px;
+  width: 15px;
+}
+
+.avatar.false .div {
+  border-radius: 12px;
+  height: 19px;
+  left: 22px;
+  top: 22px;
+  width: 19px;
+}
+
+.avatar.company .avatar-company-icon-2 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-65@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 17px;
+  left: 18px;
+  top: 18px;
+  width: 17px;
+}
+
+.avatar.online-indicator .avatar-company-icon-2 {
+  background-color: var(--success-500);
+  border-radius: 5px;
+  height: 13px;
+  left: 20px;
+  top: 20px;
+  width: 13px;
+}
+
+.avatar.false .avatar-company-icon-2 {
+  border-radius: 12px;
+  height: 17px;
+  left: 18px;
+  top: 18px;
+  width: 17px;
+}
+
+.avatar.company .avatar-company-icon-3 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-62@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 15px;
+  left: 14px;
+  top: 14px;
+  width: 15px;
+}
+
+.avatar.online-indicator .avatar-company-icon-3 {
+  background-color: var(--success-500);
+  border-radius: 4px;
+  height: 11px;
+  left: 16px;
+  top: 16px;
+  width: 11px;
+}
+
+.avatar.false .avatar-company-icon-3 {
+  border-radius: 12px;
+  height: 15px;
+  left: 14px;
+  top: 14px;
+  width: 15px;
+}
+
+.avatar.company .avatar-company-icon-4 {
+  background-image: url(https://c.animaapp.com/hPRv8TiJ/img/-avatar-company-icon-38@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 13px;
+  left: 10px;
+  top: 10px;
+  width: 13px;
+}
+
+.avatar.online-indicator .avatar-company-icon-4 {
+  background-color: var(--success-500);
+  border-radius: 3px;
+  height: 9px;
+  left: 12px;
+  top: 12px;
+  width: 9px;
+}
+
+.avatar.false .avatar-company-icon-4 {
+  border-radius: 12px;
+  height: 13px;
+  left: 10px;
+  top: 10px;
+  width: 13px;
+}

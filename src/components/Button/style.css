@@ -1,0 +1,115 @@
+.button {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: inline-flex;
+  position: relative;
+}
+
+.button .class-8 {
+  color: var(--primary-700) !important;
+}
+
+.button .class-9 {
+  color: var(--error-700) !important;
+}
+
+.button .class-10 {
+  color: var(--gray-500) !important;
+}
+
+.button .class-11 {
+  color: var(--gray-700) !important;
+}
+
+.button .class-12 {
+  color: var(--primary-300) !important;
+}
+
+.button .class-13 {
+  color: var(--error-300) !important;
+}
+
+.button .class-14 {
+  color: var(--gray-300) !important;
+}
+
+.button .class-15 {
+  color: var(--primary-800) !important;
+}
+
+.button .class-16 {
+  color: var(--error-800) !important;
+}
+
+.button .class-17 {
+  color: var(--gray-600) !important;
+}
+
+.button .class-18 {
+  color: var(--gray-800) !important;
+}
+
+.button .class-19 {
+  background-color: var(--success-500) !important;
+}
+
+.button .class-20 {
+  background-color: var(--primary-300) !important;
+}
+
+.button .class-21 {
+  background-color: var(--error-300) !important;
+}
+
+.button .class-22 {
+  background-color: var(--gray-300) !important;
+}
+
+.button .class-23 {
+  color: var(--primary-700) !important;
+  font-family: var(--text-lg-medium-font-family) !important;
+  font-size: var(--text-lg-medium-font-size) !important;
+  font-style: var(--text-lg-medium-font-style) !important;
+  font-weight: var(--text-lg-medium-font-weight) !important;
+  letter-spacing: var(--text-lg-medium-letter-spacing) !important;
+  line-height: var(--text-lg-medium-line-height) !important;
+}
+
+.button .icon-instance-node {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.button.destructive-true {
+  border-radius: 8px;
+}
+
+.button.secondary-gray {
+  border-radius: 8px;
+}
+
+.button.secondary-color {
+  border-radius: 8px;
+}
+
+.button.primary {
+  border-radius: 8px;
+}
+
+.button.tertiary-color {
+  border-radius: 8px;
+}
+
+.button.tertiary-gray {
+  border-radius: 8px;
+}
+
+.button.destructive-true.secondary-color.state-0-focused.size-7-sm.icon-0-false {
+  box-shadow: var(--shadow-xs-focused-4px-error-100);
+}
+
+.button.icon-0-only.state-0-focused.size-7-sm.destructive-false.secondary-gray {
+  box-shadow: var(--shadow-xs-focused-4px-gray-100);
+}

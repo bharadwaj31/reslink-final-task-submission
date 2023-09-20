@@ -1,0 +1,1 @@
+export { AvatarLabelGroup } from "./AvatarLabelGroup";
